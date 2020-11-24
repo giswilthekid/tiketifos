@@ -1,0 +1,36 @@
+1. USERS JSON FORMAT
+
+{
+    "name" : "",
+    "email" : "",
+    "sekolah" : "",
+    "kota" : "",
+    "password" : ""
+}
+
+2. TIKET JSON FORMAT
+
+{
+    "fullname" : "",
+    "asalsekolah" : "",
+    "asalkota" : "",
+    "emailaktif" : "",
+    "pilihanujian" : "",
+    "univtujuan" : "",
+    "jurusan" : "",
+    "harga" : (int)
+}
+
+3. DETAIL PEMBAYARAN JSON FORMAT
+
+{
+    "deskripsi" : "",
+    "bank" : "",
+    "norek" : (int)
+}
+4. LOGIN JSON FORMAT
+
+{
+    "email" : "",
+    "password" : ""
+}
