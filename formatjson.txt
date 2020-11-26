@@ -18,7 +18,7 @@
     "pilihanujian" : "",
     "univtujuan" : "",
     "jurusan" : "",
-    "harga" : (int)
+    "harga" : ""
 }
 
 3. DETAIL PEMBAYARAN JSON FORMAT
@@ -26,7 +26,7 @@
 {
     "deskripsi" : "",
     "bank" : "",
-    "norek" : (int)
+    "norek" : ""
 }
 4. LOGIN JSON FORMAT
 
